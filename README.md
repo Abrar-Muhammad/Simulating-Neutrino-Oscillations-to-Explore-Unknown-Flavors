@@ -1,1 +1,1 @@
-# Simulating-Neutrino-Oscillations-to-Explore-Unknown-Flavors
+# Simulating Neutrino Oscillations to Explore Unknown Flavors
