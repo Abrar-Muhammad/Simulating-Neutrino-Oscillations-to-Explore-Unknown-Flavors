@@ -40,5 +40,5 @@ This project simulates neutrino oscillation probabilities in both 3-flavor and e
 | [NumPy](https://numpy.org/) | Linear algebra, matrix ops |
 | [Matplotlib](https://matplotlib.org/) | Data visualization |
 | [Jupyter Notebook](https://jupyter.org/) | Interactive coding environment |
-| *(Optional)* [Qiskit](https://qiskit.org/) | Quantum circuit simulation |
+| [Qiskit](https://qiskit.org/) | Quantum circuit simulation |
 
